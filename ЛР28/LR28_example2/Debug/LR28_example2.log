@@ -1,0 +1,8 @@
+﻿  LR28_example2.cpp
+C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example2\LR28_example2.cpp(2,1): warning C4005: UNICODE: изменение макроопределения
+C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example2\LR28_example2.cpp : message : см. предыдущее определение "UNICODE"
+C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example2\LR28_example2.cpp(4,1): warning C4005: _UNICODE: изменение макроопределения
+C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example2\LR28_example2.cpp : message : см. предыдущее определение "_UNICODE"
+C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example2\LR28_example2.cpp(9,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example2\LR28_example2.cpp(14,9): warning C4101: StringSid: неиспользованная локальная переменная
+  LR28_example2.vcxproj -> C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example2\Debug\LR28_example2.exe
