@@ -1,0 +1,3 @@
+﻿  LR28_example_5.cpp
+C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example_5\LR28_example_5.cpp(8,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LR28_example_5.vcxproj -> C:\Users\Administrator\Documents\системное программирование\ЛР28\LR28_example_5\Debug\LR28_example_5.exe
