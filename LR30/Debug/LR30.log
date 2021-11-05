@@ -1,0 +1,3 @@
+﻿  LR30.cpp
+C:\Users\Administrator\Documents\системное программирование\ЛР30\LR30\LR30.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LR30.vcxproj -> C:\Users\Administrator\Documents\системное программирование\ЛР30\LR30\Debug\LR30.exe
