@@ -1,0 +1,4 @@
+﻿  Practika1.cpp
+C:\Users\354as\source\repos\Practika1\Practika1.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\354as\source\repos\Practika1\Practika1.cpp(48,10): warning C4101: buf: неиспользованная локальная переменная
+  Practika1.vcxproj -> C:\Users\354as\source\repos\Practika1\Debug\Practika1.exe
