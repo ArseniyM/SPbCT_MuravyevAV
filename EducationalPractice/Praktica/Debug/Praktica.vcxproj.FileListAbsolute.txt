@@ -1,0 +1,4 @@
+C:\Users\354as\source\repos\Praktica\Debug\Praktica.vcxproj.AssemblyReference.cache
+C:\Users\354as\source\repos\Praktica\Debug\Praktica.MyForm.resources
+C:\Users\354as\source\repos\Praktica\Debug\Praktica.vcxproj.GenerateResource.cache
+C:\Users\354as\source\repos\Praktica\Debug\Praktica.exe

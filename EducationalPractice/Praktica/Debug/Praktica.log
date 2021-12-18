@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\354as\source\repos\Praktica\MyForm.h(275,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\354as\source\repos\Praktica\MyForm.h(283,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\354as\source\repos\Praktica\MyForm.h(292,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\354as\source\repos\Praktica\MyForm.h(290,8): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\354as\source\repos\Praktica\MyForm.h(370,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Praktica.vcxproj -> C:\Users\354as\source\repos\Praktica\Debug\Praktica.exe
